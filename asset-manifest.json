@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/1653009/tictactoe.github.io.git/static/css/main.07c97fa0.chunk.css",
-    "main.js": "/1653009/tictactoe.github.io.git/static/js/main.5ef29357.chunk.js",
-    "main.js.map": "/1653009/tictactoe.github.io.git/static/js/main.5ef29357.chunk.js.map",
-    "runtime-main.js": "/1653009/tictactoe.github.io.git/static/js/runtime-main.7728e51f.js",
-    "runtime-main.js.map": "/1653009/tictactoe.github.io.git/static/js/runtime-main.7728e51f.js.map",
-    "static/js/2.39dc48ff.chunk.js": "/1653009/tictactoe.github.io.git/static/js/2.39dc48ff.chunk.js",
-    "static/js/2.39dc48ff.chunk.js.map": "/1653009/tictactoe.github.io.git/static/js/2.39dc48ff.chunk.js.map",
-    "index.html": "/1653009/tictactoe.github.io.git/index.html",
-    "precache-manifest.022aaeec0cab44d1265aff5b568ba194.js": "/1653009/tictactoe.github.io.git/precache-manifest.022aaeec0cab44d1265aff5b568ba194.js",
-    "service-worker.js": "/1653009/tictactoe.github.io.git/service-worker.js",
-    "static/css/main.07c97fa0.chunk.css.map": "/1653009/tictactoe.github.io.git/static/css/main.07c97fa0.chunk.css.map",
-    "static/js/2.39dc48ff.chunk.js.LICENSE.txt": "/1653009/tictactoe.github.io.git/static/js/2.39dc48ff.chunk.js.LICENSE.txt"
+    "main.css": "/tictactoe.github.io/static/css/main.07c97fa0.chunk.css",
+    "main.js": "/tictactoe.github.io/static/js/main.5ef29357.chunk.js",
+    "main.js.map": "/tictactoe.github.io/static/js/main.5ef29357.chunk.js.map",
+    "runtime-main.js": "/tictactoe.github.io/static/js/runtime-main.466cb0b9.js",
+    "runtime-main.js.map": "/tictactoe.github.io/static/js/runtime-main.466cb0b9.js.map",
+    "static/js/2.39dc48ff.chunk.js": "/tictactoe.github.io/static/js/2.39dc48ff.chunk.js",
+    "static/js/2.39dc48ff.chunk.js.map": "/tictactoe.github.io/static/js/2.39dc48ff.chunk.js.map",
+    "index.html": "/tictactoe.github.io/index.html",
+    "precache-manifest.db690325c4ae9c0b6746eebf2505c00c.js": "/tictactoe.github.io/precache-manifest.db690325c4ae9c0b6746eebf2505c00c.js",
+    "service-worker.js": "/tictactoe.github.io/service-worker.js",
+    "static/css/main.07c97fa0.chunk.css.map": "/tictactoe.github.io/static/css/main.07c97fa0.chunk.css.map",
+    "static/js/2.39dc48ff.chunk.js.LICENSE.txt": "/tictactoe.github.io/static/js/2.39dc48ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7728e51f.js",
+    "static/js/runtime-main.466cb0b9.js",
     "static/js/2.39dc48ff.chunk.js",
     "static/css/main.07c97fa0.chunk.css",
     "static/js/main.5ef29357.chunk.js"
